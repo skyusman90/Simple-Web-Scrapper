@@ -5,4 +5,5 @@ It is a simple Web Scrapper program built in C# language. It only works for the 
 ## Packages
 
 CsvHelper
+
 HtmlAgilityPack
